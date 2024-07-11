@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "661273499737",
+    "project_id": "localbaba-3ddda",
+    "storage_bucket": "localbaba-3ddda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661273499737:android:6c2ebc203b5a90df803948",
+        "android_client_info": {
+          "package_name": "com.customerlocalbaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661273499737-ilc8a44lhf71nsotpe00v90hv2f09ui2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.customerlocalbaba",
+            "certificate_hash": "b7ebacc548ed925381991ac7a6613be79f861118"
+          }
+        },
+        {
+          "client_id": "661273499737-nq5k246kdg8nd7n55530fs17vgqlfu03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.customerlocalbaba",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "661273499737-iuft4djjg6pdrau429a3u9o02ooc7pbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMOUsParFLIQpd7qmjDbWg39JwLvoB50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661273499737-iuft4djjg6pdrau429a3u9o02ooc7pbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661273499737:android:0a3db31d7eb329ec803948",
+        "android_client_info": {
+          "package_name": "com.riderlocalbaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661273499737-dh0u14drcaanl709s81vsreujlr97hip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riderlocalbaba",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "661273499737-siicv5ouu1csqecnnb7hn6h835o5bv02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riderlocalbaba",
+            "certificate_hash": "941de5c850f8a108ad5c8a40ace88df93ad21ace"
+          }
+        },
+        {
+          "client_id": "661273499737-iuft4djjg6pdrau429a3u9o02ooc7pbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMOUsParFLIQpd7qmjDbWg39JwLvoB50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661273499737-iuft4djjg6pdrau429a3u9o02ooc7pbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
